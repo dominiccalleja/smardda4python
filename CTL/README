@@ -1,0 +1,7 @@
+.ctl files are skeletons for use by .jetv.sgo "SMARDDA-go" script, in turn invoked by cases.bash.
+Each of the files belong to a particular calculation type depending on the capital letters in its name
+as follows:
+JV basic version
+JSK Comprehensive skylight version
+JSL no skylight cutouts added. Also larger btree sizes, initial_dt=1e-5 from 1e-4
+JSM tuned version of JSL

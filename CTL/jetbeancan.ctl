@@ -1,0 +1,10 @@
+&progfiles
+ rz_input_file='jetbeancan_RZ.dat',
+/
+&datvtkparameters
+  start_angle=-180.,
+  finish_angle=180.,
+  number_of_divisions=100
+/
+&plotselections
+/
